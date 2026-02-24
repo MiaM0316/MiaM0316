@@ -33,14 +33,6 @@ Passionate about software development, theoretical computer science and building
 
 ---
 
-## 📊 GitHub Activity
-
-![Mia's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiaM0316&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiaM0316&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Projects
 
 ### 📝 Todo App
