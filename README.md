@@ -9,7 +9,6 @@ Passionate about software development, theoretical computer science and building
 
 - 🎓 B.Sc. Computer Science student at Universität Leipzig
 - 📚 Currently writing my Bachelor thesis in automata theory
-- 🔬 Focus on reset automata, multi-level configurations & reachability properties
 - 💻 Building practical web projects with clean structure and solid Git workflows
 
 ---
