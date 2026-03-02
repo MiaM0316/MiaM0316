@@ -53,16 +53,3 @@ Working on:
 - Structural decomposition concepts
 
 ---
-
-## 🎯 2025 Goals
-
-- Finish my Bachelor thesis
-- Strengthen practical software engineering skills
-- Contribute to open-source projects
-- Secure a Werkstudent position in Leipzig
-
----
-
-## 📫 Let's Connect
-
-Feel free to connect or reach out if you're interested in collaboration or opportunities.
