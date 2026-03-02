@@ -35,12 +35,29 @@ Passionate about software development, theoretical computer science and building
 ## 🚀 Projects
 
 ### 📝 Todo App
+
+Live Demo
+👉 https://miam0316.github.io/todo-app/
+
 A structured task management application built with HTML, CSS and JavaScript.  
 Focus areas:
 - Modular code structure
 - Clean UI
 - Practical Git workflow
 - Continuous feature improvements
+
+---
+
+### 📝 Calculator
+
+Live Demo
+👉 https://miam0316.github.io/calculator/
+
+A basic Calculator built with HTML, CSS and JavaScript.  
+Focus areas:
+- DOM Manipulation
+- Clean UI
+- Error handeling
 
 ---
 
