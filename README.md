@@ -46,7 +46,6 @@ Focus areas:
 - Practical Git workflow
 - Continuous feature improvements
 
----
 
 ### 📝 Calculator
 
