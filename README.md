@@ -30,6 +30,7 @@ Interested in **software development, data analysis and theoretical computer sci
 ### Data & Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Tools
 
